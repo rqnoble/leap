@@ -1,0 +1,19 @@
+{
+  "name": "leap",
+  "version": "1.0.0",
+  "description": "SMS interface",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "plivo": "^0.3.3",
+    "sqlite3": "^3.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node leap.js"
+  },
+  "author": "robb.qn@gmail.com",
+  "license": "ISC"
+}
