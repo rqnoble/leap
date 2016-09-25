@@ -16,7 +16,7 @@
 * install required modules:
    * from leap base directory run `npm install`
 * start leap
-   * nodejs leap.js
+   * node leap.js
 
 ### references:
 * [Plivo Reply to incoming sms](https://www.plivo.com/docs/getting-started/reply-to-an-incoming-sms/)
